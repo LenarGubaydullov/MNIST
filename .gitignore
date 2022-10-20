@@ -1,0 +1,4 @@
+# Default ignored files
+/shelf/
+configs\config.xml
+__pycache__
